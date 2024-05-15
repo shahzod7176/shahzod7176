@@ -8,21 +8,13 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 [![Telegram Badge](https://img.shields.io/badge/@Shdhz1-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Shdhz1)](https://t.me/Shdhz1) 
 ![Threads Badge](https://img.shields.io/badge/shahzod.__o1-000000?style=for-the-badge&logo=Threads&logoColor=white)
-![Instagram Badge](https://img.shields.io/badge/shahzod__o1-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![Instagram Badge](https://img.shields.io/badge/shahzod.__o1-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![Leetcode Badge](https://img.shields.io/badge/-shahzod_5l-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm currently I study PDP ACADEMY
 
-
-<h1 tabindex="-1" align="left">🌐 Connect with me:</h1>
-<p align="left">
-<a href="https://linkedin.com/in/sarvarbek-davranbekov-3272212a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarvarbek-davranbekov-3272212a5" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100081788845272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100081788845272" height="30" width="40" /></a>
-<a href="https://instagram.com/sarvar_py_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarvar_py_dev" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sarvar_py_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarvar_py_dev" height="30" width="40" /></a>
-</p>
 
 ## ⚡ Technologies
 
