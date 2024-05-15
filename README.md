@@ -1,6 +1,6 @@
 <h1 align="center">Backend Developer</h1>
 
-## Hi there! I'm Qo'shqulov Shahzod <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" I'm Qo'shqulov Shahzod >
 
 I am a back-end software engineer specializing in building high load back-end services, web applications, and systems using Python. I solve problems, automate things, help businesses and people to grow and improve life. </br>
 
