@@ -49,6 +49,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 ]
 
+<a href="https://leetcode.com/u/shahzod_5l/">![Leetcode Stats](https://leetcard.jacoblin.cool/shahzod_5l?theme=dark)</a>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shahzod7176&show_icons=true&theme=gotham" alt="shahzod7176" />
 
