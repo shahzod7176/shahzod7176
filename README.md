@@ -11,7 +11,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
  </abc>
 </h2> 
 
-<a href="https://telegram.com/Shdhz1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Shdhz1" height="30" 
+<a href="https://telegram.com/Shdhz1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Shdhz1" height="30" 
 width="40" /></a>
 <a href="https://instagram.com/shahzod.__o1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahzod.__o1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shahzod_5l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shahzod_5l" height="30" width="40" /></a>
