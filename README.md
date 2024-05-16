@@ -1,18 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shahzod Qo'shqulov</h1>
-<h3 align="center">A passionate python developer from Uzbekistan</h3>
+<h3 align="center">Programmer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-
-## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-
-I am a back-end software engineer specializing in building high load back-end services, web applications, and systems using Python. I solve problems, automate things, help businesses and people to grow and improve life. </br>
-
-I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
-
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2> 
+
+I am a Back-end developer. I studied at PDP ACADEMY on Python development of the back-end part.Find out more about me & feel free to connect with me here:
 
 <a href="https://Telegram.com/shdhz1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Telegram.svg" alt="shdhz1" height="30" 
 width="40" /></a>
@@ -23,7 +17,6 @@ width="40" /></a>
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm currently I study PDP ACADEMY
-
 
 ## ⚡ Technologies
 
