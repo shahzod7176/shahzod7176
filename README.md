@@ -13,6 +13,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 [![Telegram Badge](https://img.shields.io/badge/@Shdhz1-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Shdhz1)](https://t.me/Shdhz1) 
 [![Threads Badge](https://img.shields.io/badge/shahzod.__o1-000000?style=for-the-badge&logo=Threads&logoColor=white&link=https://insta.me/shahzod.__o1)](https://insta.me/shahzod.__o1)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://insta.me/shahzod.__o1)](https://insta.me/shahzod.__o1))
 
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
