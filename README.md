@@ -5,6 +5,8 @@
 Hello everyone. My name is Shahzod. I was born and raised in Uzbekistan. I am a Back-end developer. I studied at PDP ACADEMY on Python development of the back-end part.Find out more about me & feel free to connect with me here:
 
 
+
+
 <a href="https://www.telegram.com/shdhz1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="shdhz1" height="30" 
 width="40" /></a>
 <a href="https://instagram.com/shahzod.__o1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahzod.__o1" height="30" width="40" /></a>
