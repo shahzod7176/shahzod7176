@@ -6,6 +6,11 @@ I am a back-end software engineer specializing in building high load back-end se
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
+  <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ </abc>
+</h2> 
+
 [![Telegram Badge](https://img.shields.io/badge/@Shdhz1-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Shdhz1)](https://t.me/Shdhz1) 
 ![Threads Badge](https://img.shields.io/badge/shahzod.__o1-000000?style=for-the-badge&logo=Threads&logoColor=white)
 ![Instagram Badge](https://img.shields.io/badge/shahzod.__o1-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
