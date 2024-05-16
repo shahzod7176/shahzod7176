@@ -12,9 +12,8 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 </h2> 
 
 [![Telegram Badge](https://img.shields.io/badge/@Shdhz1-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Shdhz1)](https://t.me/Shdhz1) 
-![Threads Badge](https://img.shields.io/badge/shahzod.__o1-000000?style=for-the-badge&logo=Threads&logoColor=white)
-![Instagram Badge](https://img.shields.io/badge/shahzod.__o1-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![Leetcode Badge](https://img.shields.io/badge/-shahzod_5l-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
+![image](https://img.shields.io/badge/shahzod.__o1-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
