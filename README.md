@@ -38,6 +38,7 @@ Hello everyone. My name is Shahzod. I was born and raised in Uzbekistan. I am a 
 <a href="https://linkedin.com/in/shahzod-qoshqulov-294772309" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahzod-qoshqulov-294772309" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://instagram.com/shahzod.__o1" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahzod.__o1" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://www.leetcode.com/shahzod_5l" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shahzod_5l/" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://T.me/shahzoddd7" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="shahzoddd7/" height="30" width="40" style="max-width: 100%;"></a>
 </p>
 
 <p dir="auto"><br></p>
