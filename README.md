@@ -3,12 +3,20 @@
 
 Hello everyone. My name is Shahzad. I was born and raised in Uzbekistan. I am a Back-end developer. I studied Python backend development at PDP ACADEMY. Find out more about me and contact me here. If you want to contact me via telegram I left it under my profile
 
+<p dir="auto">]</p>
+
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" align="left" class="heading-element" dir="auto">🌐 Connect with me:</h1><a id="user-content--connect-with-me" class="anchor" aria-label="Permalink: 🌐 Connect with me:" href="#-connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 
 
-<a href="https://instagram.com/shahzod.__o1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahzod.__o1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shahzod_5l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shahzod_5l" height="30" width="40" /></a>
+<p align="left" dir="auto">
+<a href="https://linkedin.com/in/shahzod-qoshqulov-294772309" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahzod-qoshqulov-294772309" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://instagram.com/shahzod.__o1" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahzod.__o1" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.leetcode.com/shahzod_5l" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shahzod_5l/" height="30" width="40" style="max-width: 100%;"></a>
 </p>
-  
+
+
+
+
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
@@ -27,17 +35,6 @@ Hello everyone. My name is Shahzad. I was born and raised in Uzbekistan. I am a 
 <img src="https://camo.githubusercontent.com/14a646a2ab516c4af8961aa726117a10597be3f0e8d2711d716217fd544a2bd5/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="Snake" data-canonical-src="https://profile-readme-generator.com/assets/snake.svg" style="max-width: 100%;">
 
 ]
-
-<p dir="auto">]</p>
-
-<div class="markdown-heading" dir="auto"><h1 tabindex="-1" align="left" class="heading-element" dir="auto">🌐 Connect with me:</h1><a id="user-content--connect-with-me" class="anchor" aria-label="Permalink: 🌐 Connect with me:" href="#-connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-
-
-<p align="left" dir="auto">
-<a href="https://linkedin.com/in/shahzod-qoshqulov-294772309" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahzod-qoshqulov-294772309" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://instagram.com/shahzod.__o1" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahzod.__o1" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://www.leetcode.com/shahzod_5l" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shahzod_5l/" height="30" width="40" style="max-width: 100%;"></a>
-</p>
 
 <p dir="auto"><br></p>
 
